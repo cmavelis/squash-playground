@@ -1,5 +1,9 @@
 It was a Dark and Stormy night.
 
-TODO: develop recipes
+ingredients:
+ - rum
+ - ginger beer
+ - lime juice
+ - ice
 
 The end
