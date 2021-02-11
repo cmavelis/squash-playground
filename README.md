@@ -1,5 +1,5 @@
-It was a dark and stormy night.
+It was a Dark and Stormy night.
 
-TODO: develop plot
+TODO: develop recipes
 
 The end
